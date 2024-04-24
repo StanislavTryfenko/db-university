@@ -32,4 +32,4 @@ Dopo aver testato le vostre query con phpMyAdmin, riportatele in un file query.m
 7. Da quanti dipartimenti è composta l'università? (12)
    - SELECT COUNT(*) FROM `departments`;
 8. Quanti sono gli insegnanti che non hanno un numero di telefono? (50)
-   - SELECT COUNT(*) FROM `teachers` WHERE `phone` IS NULL;SELECT * FROM students WHERE YEAR(CURDATE()) - YEAR(date_of_birth) > 30;
+   - SELECT COUNT(*) FROM `teachers` WHERE `phone` IS NULL;
