@@ -15,7 +15,7 @@ Dopo aver testato le vostre query con phpMyAdmin, riportatele in un file query.m
 -Da quanti dipartimenti è composta l'università? (12)
 -Quanti sono gli insegnanti che non hanno un numero di telefono? (50)
 
-    Confermate lettura come al solito e buon divertimento :baby-yoda: :sql:
+   Confermate lettura come al solito e buon divertimento :baby-yoda: :sql:
 
 1. Selezionare tutti gli studenti nati nel 1990 (160)
    - SELECT * FROM `students` WHERE YEAR(`date_of_birth`) = 1990;
